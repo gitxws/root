@@ -10,11 +10,11 @@
 
 ## 一键脚本
 ```bash
-wget -q root.sh https://raw.githubusercontent.com/passeway/root/main/root.sh && chmod +x root.sh && ./root.sh
+wget -q root.sh https://raw.githubusercontent.com/gitxws/root/main/root.sh && chmod +x root.sh && ./root.sh
 ```
 
 ```bash
-curl -sS -o root.sh https://raw.githubusercontent.com/passeway/root/main/root.sh && chmod +x root.sh && ./root.sh
+curl -sS -o root.sh https://raw.githubusercontent.com/gitxws/root/main/root.sh && chmod +x root.sh && ./root.sh
 ```
 ## 详细说明
 - 脚本会根据用户选择，生成随机密码或者设置自定义密码，并将其应用于root用户。
